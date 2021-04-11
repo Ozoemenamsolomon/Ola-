@@ -1,0 +1,16 @@
+{
+    "bracketPairColorizer.consecutivePairColors": [
+    
+        "()",
+        "[]",
+        "{}",
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
